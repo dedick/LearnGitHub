@@ -1,2 +1,4 @@
+# file without extension
 ^([^.]+)$
+# temporary file
 *~
