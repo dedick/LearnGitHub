@@ -1,0 +1,17 @@
+2.1)
+
+M -> Merge
+A -> Added
+D -> Deleted
+R -> Renamed
+C -> Copied
+
+2.2)
+
+To view history or log, you have to executer "git log". It's useful because its allow you to check all action executed on the repository about push, pull, merge. Who done this actions and when. You see commentary of each action too.
+
+2.9)
+
+We do this to avoid uploading temporary files for exemple.
+
+
