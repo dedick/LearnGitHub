@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Just Create a Jekyll Website
 baseurl: "/LearnGitHub" # the subpath of your site, e.g. /blog/
 url: "http://dedick.github.io/LearnGitHub" # the base hostname & protocol for your site
-twitter_username: jekyllrb
+twitter_username: "No Account"
 github_username:  dedick
 
 # Build settings
