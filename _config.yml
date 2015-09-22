@@ -1,10 +1,11 @@
 # Site settings
-title: SemanaI - Learn GItHub
+title: SemanaI - Learn
 email: dedickerremi@gmail.com
-description: > Just create a website with Jekyll
+description: > # this means to ignore newlines until "baseurl:"
+  Just Create a Jekyll Website
 baseurl: "/LearnGitHub" # the subpath of your site, e.g. /blog/
 url: "http://dedick.github.io/LearnGitHub" # the base hostname & protocol for your site
-twitter_username: dedick
+twitter_username: jekyllrb
 github_username:  dedick
 
 # Build settings
