@@ -1,0 +1,11 @@
+# Site settings
+title: SemanaI - Learn GItHub
+email: dedickerremi@gmail.com
+description: > Just create a website with Jekyll
+baseurl: "/LearnGitHub" # the subpath of your site, e.g. /blog/
+url: "http://dedick.github.io/LearnGitHub" # the base hostname & protocol for your site
+twitter_username: dedick
+github_username:  dedick
+
+# Build settings
+markdown: kramdown
