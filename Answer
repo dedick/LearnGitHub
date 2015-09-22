@@ -1,0 +1,19 @@
+2.1)
+
+M -> Merge
+A -> Added
+D -> Deleted
+R -> Renamed
+C -> Copied
+
+2.2)
+
+To view history or log, you have to executer "git log". It's useful because its allow you to check all action executed on the repository about push, pull, merge. Who done this actions and when. You see commentary of each action too.
+
+2.9)
+
+We do this to avoid uploading temporary files for exemple. You can choose what files you want to ignore with a .gitignore file.
+
+2.10)
+
+There are some many features available with Emacs Like Magit. It s an interface to the version control system, implemented as en Emacs package. Magit wraps and improves upon each and every Git command, it is complete enough to allow even experienced Git users to perform almost all of their daily version control tasks.
